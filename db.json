@@ -1,0 +1,21 @@
+{
+	"speaker": {
+		"id": 2,
+		"name": "Juana Manuela",
+		"description": "Ingeniero",
+		"event_id": 3,
+		"order": 9090,
+		"created_at": "2019-06-20 17:07:20",
+		"updated_at": "2019-06-20 17:07:20",
+		"theme": [{
+			"id": 2,
+			"name": "NARANJA",
+			"description": "COLOR BELLO",
+			"active": 1,
+			"pivot": {
+				"speaker_id": 2,
+				"theme_id": 2
+			}
+		}]
+	}
+}
